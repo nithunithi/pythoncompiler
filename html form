@@ -1,0 +1,4 @@
+<input type="Text"placeholder = "Enter Name"/>
+<input type="Passord"placeholder ="Enter Your Password"/>
+<input type="Email"placeholder = "Enter Your Email"/>
+<input type="button"value ="Submit"/>
